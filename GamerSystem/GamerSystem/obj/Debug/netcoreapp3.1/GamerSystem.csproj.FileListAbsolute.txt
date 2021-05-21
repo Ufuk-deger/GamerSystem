@@ -1,0 +1,13 @@
+C:\Users\ufuke\OneDrive\Masaüstü\GamerSystem\GamerSystem\bin\Debug\netcoreapp3.1\GamerSystem.exe
+C:\Users\ufuke\OneDrive\Masaüstü\GamerSystem\GamerSystem\bin\Debug\netcoreapp3.1\GamerSystem.deps.json
+C:\Users\ufuke\OneDrive\Masaüstü\GamerSystem\GamerSystem\bin\Debug\netcoreapp3.1\GamerSystem.runtimeconfig.json
+C:\Users\ufuke\OneDrive\Masaüstü\GamerSystem\GamerSystem\bin\Debug\netcoreapp3.1\GamerSystem.runtimeconfig.dev.json
+C:\Users\ufuke\OneDrive\Masaüstü\GamerSystem\GamerSystem\bin\Debug\netcoreapp3.1\GamerSystem.dll
+C:\Users\ufuke\OneDrive\Masaüstü\GamerSystem\GamerSystem\bin\Debug\netcoreapp3.1\GamerSystem.pdb
+C:\Users\ufuke\OneDrive\Masaüstü\GamerSystem\GamerSystem\obj\Debug\netcoreapp3.1\GamerSystem.csprojAssemblyReference.cache
+C:\Users\ufuke\OneDrive\Masaüstü\GamerSystem\GamerSystem\obj\Debug\netcoreapp3.1\GamerSystem.AssemblyInfoInputs.cache
+C:\Users\ufuke\OneDrive\Masaüstü\GamerSystem\GamerSystem\obj\Debug\netcoreapp3.1\GamerSystem.AssemblyInfo.cs
+C:\Users\ufuke\OneDrive\Masaüstü\GamerSystem\GamerSystem\obj\Debug\netcoreapp3.1\GamerSystem.csproj.CoreCompileInputs.cache
+C:\Users\ufuke\OneDrive\Masaüstü\GamerSystem\GamerSystem\obj\Debug\netcoreapp3.1\GamerSystem.dll
+C:\Users\ufuke\OneDrive\Masaüstü\GamerSystem\GamerSystem\obj\Debug\netcoreapp3.1\GamerSystem.pdb
+C:\Users\ufuke\OneDrive\Masaüstü\GamerSystem\GamerSystem\obj\Debug\netcoreapp3.1\GamerSystem.genruntimeconfig.cache
